@@ -5,3 +5,5 @@ Javascript
 Maven
 Eclipse
 GitHub
+SQL
+JQuery
